@@ -4,21 +4,21 @@
   "agency": "U.S. Department of Interior",
   "releases": [
     {
-      "name": "nshm-cous-2014",
-      "description": "National Seismic Hazard Model (NSHM): Conterminous U.S. 2008",
-      "version": "4.1.0",
+      "name": "nshm-cous-2018",
+      "description": "National Seismic Hazard Model (NSHM): Conterminous U.S. 2018",
+      "version": "5.0.0",
       "status": "Production",
       "organization": "U.S. Geological Survey",
       "vcs": "git",
-      "repositoryURL": "https://github.com/usgs/nshm-cous-2014",
+      "repositoryURL": "https://github.com/usgs/nshm-cous-2018",
       "homepageURL": "https://github.com/usgs/nshmp-haz/wiki",
-      "downloadURL": "https://github.com/usgs/nshm-cous-2014/releases/tag/v4.1.0",
-      "disclaimerURL": "https://github.com/usgs/nshm-cous-2014/blob/master/DISCLAIMER.md",
+      "downloadURL": "https://github.com/usgs/nshm-cous-2018/releases/tag/v5.0.0",
+      "disclaimerURL": "https://github.com/usgs/nshm-cous-2018/blob/master/DISCLAIMER.md",
       "permissions": {
         "licenses": [
           {
             "name": "Public Domain",
-            "URL": "https://github.com/usgs/nshm-cous-2014/blob/master/LICENSE.md"
+            "URL": "https://github.com/usgs/nshm-cous-2018/blob/master/LICENSE.md"
           }
         ],
         "usageType": "openSource",
@@ -40,7 +40,7 @@
         "email": "pmpowers@usgs.gov"
       },
       "date": {
-        "metadataLastUpdated": "2017-09-18"
+        "metadataLastUpdated": "2018-04-19"
       }
     }
   ]
