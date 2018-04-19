@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GroundMotionModels>
+  <!-- This model is an example and for review purposes only -->
+  <ModelSet maxDistance="300.0">
+    <Model id="BCHYDRO_12_SLAB" weight="0.5"/>
+    <Model id="ZHAO_06_SLAB" weight="0.5"/>
+  </ModelSet>
+</GroundMotionModels>
