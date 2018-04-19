@@ -1,5 +1,5 @@
 ## NSHM: Conterminous U.S. 2014
 
-For details on the format of this U.S. Geological Survey (USGS) National Seismic Hazard Model (NSHM), see the [nshmp-haz wiki](https://github.com/usgs/nshmp-haz/wiki).
+**NOTE: This model is preliminary and for review purposes only. It is currently under development and review and does NOT represent an official release or product. For official release products please see the [USGS Earthquake Hazards](http://earthquake.usgs.gov/hazards/) website.**
 
-See also [2014 USGS Earthquake Hazard Maps & Data](http://earthquake.usgs.gov/hazards/products/conterminous/).
+For details on the format of this U.S. Geological Survey (USGS) National Seismic Hazard Model (NSHM), see the [nshmp-haz wiki](https://github.com/usgs/nshmp-haz/wiki).
