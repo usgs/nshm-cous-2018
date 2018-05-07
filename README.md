@@ -1,4 +1,4 @@
-## NSHM: Conterminous U.S. 2014
+## NSHM: Conterminous U.S. 2018
 
 **NOTE: This model is preliminary and for review purposes only. It is currently under development and review and does NOT represent an official release or product. For official release products please see the [USGS Earthquake Hazards](http://earthquake.usgs.gov/hazards/) website.**
 
