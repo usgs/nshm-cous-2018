@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GridSourceSet id="5" name="default" weight="0.3">
+  <!-- This model is an example and for review purposes only -->
+  <Settings>
+    <DefaultMfds>
+      <IncrementalMfd a="0.0" b="1.0" dMag="0.1" mMax="6.45" mMin="4.75" type="GR" weight="0.2"/>
+      <IncrementalMfd a="0.0" b="1.0" dMag="0.1" mMax="6.95" mMin="4.75" type="GR" weight="0.5"/>
+      <IncrementalMfd a="0.0" b="1.0" dMag="0.1" mMax="7.45" mMin="4.75" type="GR" weight="0.2"/>
+      <IncrementalMfd a="0.0" b="1.0" dMag="0.1" mMax="7.95" mMin="4.75" type="GR" weight="0.1"/>
+    </DefaultMfds>
+    <SourceProperties focalMechMap="[REVERSE:0.0,STRIKE_SLIP:1.0,NORMAL:0.0]" magDepthMap="[10.0::[5.0:1.0]]" maxDepth="22.0" ruptureScaling="NSHM_SOMERVILLE" strike="NaN"/>
+  </Settings>
+  <Nodes path="sscn-fixed/default.csv"/>
+</GridSourceSet>
