@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GridSourceSet id="-1" name="ext-fixed-gr" weight="0.17982">
+  <!-- This model is an example and for review purposes only -->
+  <Settings>
+    <DefaultMfds>
+      <IncrementalMfd a="0.0" b="0.8" dMag="0.1" mMax="7.45" mMin="5.05" type="GR" weight="1.0"/>
+    </DefaultMfds>
+    <SourceProperties focalMechMap="[REVERSE:0.0,STRIKE_SLIP:0.333,NORMAL:0.667]" magDepthMap="[6.5::[5.0:1.0]; 10.0::[1.0:1.0]]" maxDepth="14.0" ruptureScaling="NSHM_POINT_WC94_LENGTH" strike="NaN"/>
+  </Settings>
+  <Nodes path="ext-fixed-gr.csv"/>
+</GridSourceSet>
