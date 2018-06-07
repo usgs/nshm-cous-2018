@@ -2,7 +2,7 @@
 <GroundMotionModels>
   <!-- This model is an example and for review purposes only -->
   <ModelSet maxDistance="1000.0">
-    <Model id="NGA_EAST_USGS_CENTRAL" weight="0.667"/>
-    <Model id="NGA_EAST_USGS_SEEDS_CENTRAL" weight="0.333"/>
+    <Model id="NGA_EAST_USGS" weight="0.667"/>
+    <Model id="NGA_EAST_USGS_SEEDS" weight="0.333"/>
   </ModelSet>
 </GroundMotionModels>
