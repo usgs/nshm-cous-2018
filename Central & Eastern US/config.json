@@ -8,7 +8,7 @@
     "areaGridScaling": "SCALED_SMALL"
   },
   "hazard": {
-    "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
+    "exceedanceModel": "NSHM_CEUS_MAX_INTENSITY",
     "truncationLevel": 3.0,
    "imts": [
      "PGA",
