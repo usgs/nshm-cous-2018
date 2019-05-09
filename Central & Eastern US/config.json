@@ -8,21 +8,20 @@
     "areaGridScaling": "SCALED_SMALL"
   },
   "hazard": {
-    "exceedanceModel": "NSHM_CEUS_3SIGMA_MAX_INTENSITY",
-    "truncationLevel": 3.0,
-   "imts": [
-     "PGA",
-     "SA0P1", 
-     "SA0P2", 
-     "SA0P3", 
-     "SA0P4", 
-     "SA0P5", 
-     "SA0P75", 
-     "SA1P0", 
-     "SA2P0", 
-     "SA3P0", 
-     "SA4P0", 
-     "SA5P0"
-   ]
+    "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
+    "imts": [
+      "PGA",
+      "SA0P1", 
+      "SA0P2", 
+      "SA0P3", 
+      "SA0P4", 
+      "SA0P5", 
+      "SA0P75", 
+      "SA1P0", 
+      "SA2P0", 
+      "SA3P0", 
+      "SA4P0", 
+      "SA5P0"
+    ]
   }
 }
