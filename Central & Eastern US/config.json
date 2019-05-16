@@ -9,7 +9,6 @@
   },
   "hazard": {
     "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
- "hazard": {
     "imts": [
       "PGA",
       "SA0P01",
