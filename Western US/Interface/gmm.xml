@@ -2,8 +2,8 @@
 <GroundMotionModels>
   <!-- This model is an example and for review purposes only -->
   <ModelSet maxDistance="1000.0">
-    <Model id="AM_09_INTERFACE_BASIN_AMP" weight="0.3333"/>
-    <Model id="BCHYDRO_12_INTERFACE_BASIN_AMP" weight="0.3334"/>
-    <Model id="ZHAO_06_INTERFACE_BASIN_AMP" weight="0.3333"/>
+    <Model id="AM_09_INTERFACE_BASIN" weight="0.3333"/>
+    <Model id="BCHYDRO_12_INTERFACE_BASIN" weight="0.3334"/>
+    <Model id="ZHAO_06_INTERFACE_BASIN" weight="0.3333"/>
   </ModelSet>
 </GroundMotionModels>
